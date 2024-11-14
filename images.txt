@@ -1,5 +1,5 @@
 #支持私库
-docker pull sifan1/vodspider:v3
-docker pull sifan1/vodspider:latest
-docker pull sifan1/vodspider:v2
+sifan1/vodspider:v3
+sifan1/vodspider:latest
+sifan1/vodspider:v2
 haroldli/alist-tvbox
