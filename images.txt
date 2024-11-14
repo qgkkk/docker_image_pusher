@@ -1,5 +1,12 @@
-#支持私库
-sifan1/vodspider:v3
-sifan1/vodspider:latest
-sifan1/vodspider:v2
-haroldli/alist-tvbox
+#支持指定架构
+--platform=linux/amd64 sifan1/vodspider:latest
+--platform=linux/arm64 sifan1/vodspider:latest
+--platform=linux/arm/v7 sifan1/vodspider:latest
+--platform=linux/arm/v6 sifan1/vodspider:latest
+--platform=linux/amd64 sifan1/vodspider:v3
+--platform=linux/arm64 sifan1/vodspider:v3
+--platform=linux/arm/v7 sifan1/vodspider:v3
+--platform=linux/arm/v6 sifan1/vodspider:v3
+--platform=linux/amd64 sifan1/vodspider:v2
+--platform=linux/arm64 sifan1/vodspider:v2
+--platform=linux/arm/v7 sifan1/vodspider:v2
