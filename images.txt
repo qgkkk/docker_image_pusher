@@ -10,3 +10,6 @@
 --platform=linux/amd64 sifan1/vodspider:v2
 --platform=linux/arm64 sifan1/vodspider:v2
 --platform=linux/arm/v7 sifan1/vodspider:v2
+--platform=linux/amd64 sifan1/vodspider:v4
+--platform=linux/arm64 sifan1/vodspider:v4
+--platform=linux/arm/v7 sifan1/vodspider:v4
