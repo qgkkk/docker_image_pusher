@@ -2,7 +2,6 @@
 --platform=linux/amd64 sifan1/vodspider:latest
 --platform=linux/arm64 sifan1/vodspider:latest
 --platform=linux/arm/v7 sifan1/vodspider:latest
---platform=linux/arm/v6 sifan1/vodspider:latest
 --platform=linux/amd64 sifan1/vodspider:v3
 --platform=linux/arm64 sifan1/vodspider:v3
 --platform=linux/arm/v7 sifan1/vodspider:v3
